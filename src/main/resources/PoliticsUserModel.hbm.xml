@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-mapping auto-import="true">
+<class name="tv.politics.model.PoliticsUserModel" table="registrations">
+	<property name="id"></property>
+	<property name="firstname"></property>  
+	<property name="lastname"></property>  
+	<property name="email"></property> 
+          
+</class>  
+</hibernate-mapping>
